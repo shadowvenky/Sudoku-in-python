@@ -1,9 +1,6 @@
  
 
 import random
-print("\n\n \033[1;32m TECHONOLOGY CLUB \033[1;35m \n")
-
-
 
 class Sudoku:
     def __init__(self):
